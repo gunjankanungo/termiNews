@@ -1,0 +1,27 @@
+{
+  "name": "terminews",
+  "version": "1.0.0",
+  "description": "read the latest news headlines from your terminal window",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "news": "bin/news.js"
+  },
+  "keywords": [
+    "node",
+    "request",
+    "cheerio",
+    "news",
+    "terminal",
+    "iTerm2",
+    "javascript"
+  ],
+  "author": "dpd",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
