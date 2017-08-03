@@ -9,6 +9,10 @@
   "bin": {
     "news": "bin/news.js"
   },
+  "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/DanielDwyer/termiNews.git"
+  },
   "keywords": [
     "node",
     "request",
