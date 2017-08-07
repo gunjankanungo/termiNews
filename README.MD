@@ -2,8 +2,6 @@
 ![Downloads](https://img.shields.io/npm/dm/terminews.svg)
 ![Downloads](https://img.shields.io/npm/dt/terminews.svg)
 ![npm version](https://img.shields.io/npm/v/terminews.svg)
-![dependencies](https://img.shields.io/david/jcgertig/terminews.svg)
-![dev dependencies](https://img.shields.io/david/dev/jcgertig/terminewssvg)
 ![License](https://img.shields.io/npm/l/terminews.svg)
 
 Read the latest news headlines right in your terminal. Each headline is paired with a url to lead to the article.
