@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
+    "newsDev": "bin/news.js",
     "news": "bin/news.js"
   },
   "repository": {
@@ -27,6 +28,7 @@
   "preferGlobal": "true",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "ez-local-time": "0.0.9",
     "request": "^2.81.0"
   }
 }
