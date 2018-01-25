@@ -1,6 +1,6 @@
 {
   "name": "terminews",
-  "version": "1.5.6",
+  "version": "1.9.9",
   "description": "read the latest news headlines from your terminal window",
   "main": "./lib/index.js",
   "scripts": {
